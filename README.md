@@ -1,1 +1,1 @@
-# UI Layout Library in C
+# UI Auto-Layout in C
